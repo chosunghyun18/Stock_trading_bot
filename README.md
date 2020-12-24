@@ -6,7 +6,7 @@ Stock_trading_Bot     Base on timepercent in class 101 clone coding
 1. 키움증권 api  사용
 2. 아나콘다 32 bit 사용 
 -> 키움 증권 때문 64 로할시 별도의 전환이 필요하다.
-pycharm/ Datagrip / mysql 을 사용함
+pycharm/ Datagrip / mysql 을사용
 
 
 
